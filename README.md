@@ -1,6 +1,6 @@
 ## O que é esse projeto?
 
-Projeto desenvolvido no curso [React Avançado](https://reactavancado.com.br/), ministrado pelo [William Justen](https://willianjusten.com.br/) William Justen. 
+Projeto desenvolvido no curso [React Avançado](https://reactavancado.com.br/), ministrado pelo [William Justen](https://willianjusten.com.br/).
 
 
 Algumas das tech utilizadas nesse projeto são: 
